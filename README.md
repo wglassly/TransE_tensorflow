@@ -1,17 +1,17 @@
 # TransE_tensorflow
 
-First:
+*First
 
   mkdir ./data/
   
   mkdir ./data/model/
 
-Second: 
+*Second 
 
   copy train.txt, test.txt, vaild.txt and entity2id.txt, relation2id.txt to ./data/
 
 
-Needs:
+*Needs
 
   python 2.7+(3+ untest) , tensorflow 1.0+
 
